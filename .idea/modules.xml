@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidStudioDemo.iml" filepath="$PROJECT_DIR$/MyAndroidStudioDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/urlconnection/urlconnection.iml" filepath="$PROJECT_DIR$/urlconnection/urlconnection.iml" />
+    </modules>
+  </component>
+</project>
